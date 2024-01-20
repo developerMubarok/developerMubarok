@@ -1,4 +1,3 @@
-![Web developer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/372647340_1130879141418220_6727683613065364755_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeEzYyfs1ydhwXv91fdY2BDFi3iLyWBLsj-LeIvJYEuyP-PfvqRCP7Rtmn63w0kZyRplkRxFdr2gyL7USjiWk1Ks&_nc_ohc=y4QzyOi-ZY0AX_vD2HB&_nc_ht=scontent.fdac41-1.fna&oh=00_AfA-Bkt20c_4WTG8zKDH9s0Sdcuoz9dne6cym-T3EBkEGA&oe=65B08462)
 ### Hi there 👋, I'am Muborok 
 #### Web developer
 I, am a desinger & developer with a passion for web desing. I enjoy developing simple, clean and slick websites that provaide real value to the end user. Thousands of clients have procurd exceptional resulfs while working with me.Delivering work within time and budget which me clients requirements in our meta.
